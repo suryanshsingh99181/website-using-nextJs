@@ -1,0 +1,77 @@
+{
+    "courses":[
+    {
+        "id": 1,
+        "title": "Guitar Fundamentals",
+        "slug": "guitar-fundamentals",
+        "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true
+    },
+    {
+        "id": 2,
+        "title": "Advanced Guitar Techniques",
+        "slug": "advanced-guitar-techniques",
+        "description": "Master advanced guitar techniques to take your skills to the next level.",
+        "price": 149.99,
+        "instructor": "Jane Smith",
+        "isFeatured": false
+    },
+    {
+        "id": 3,
+        "title": "Piano Basics",
+        "slug": "piano-basics",
+        "description": "An introductory course to learn the fundamentals of playing the piano.",
+        "price": 89.99,
+        "instructor": "Emma Brown",
+        "isFeatured": true
+    },
+    {
+        "id": 4,
+        "title": "Jazz Drumming Essentials",
+        "slug": "jazz-drumming-essentials",
+        "description": "Explore the essentials of jazz drumming with this beginner's guide.",
+        "price": 129.99,
+        "instructor": "Michael Green",
+        "isFeatured": false
+    },
+    {
+        "id": 5,
+        "title": "Electronic Music Production",
+        "slug": "electronic-music-production",
+        "description": "Learn how to produce electronic music using the latest software and techniques.",
+        "price": 199.99,
+        "instructor": "Alex White",
+        "isFeatured": true
+    },
+    {
+        "id": 6,
+        "title": "Singing for Beginners",
+        "slug": "singing-for-beginners",
+        "description": "Find your voice with this beginner-friendly singing course.",
+        "price": 79.99,
+        "instructor": "Sophia Johnson",
+        "isFeatured": false
+    },
+    {
+        "id": 7,
+        "title": "Music Theory Basics",
+        "slug": "music-theory-basics",
+        "description": "Understand the fundamentals of music theory to improve your musicality.",
+        "price": 59.99,
+        "instructor": "Chris Lee",
+        "isFeatured": true
+    },
+    {
+        "id": 8,
+        "title": "Ukulele for Everyone",
+        "slug": "ukulele-for-everyone",
+        "description": "A fun course to start playing the ukulele and learn some popular songs.",
+        "price": 69.99,
+        "instructor": "Olivia Martinez",
+        "isFeatured": false
+    }
+]
+
+}
